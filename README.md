@@ -1,6 +1,6 @@
 # Coffee Machine
 
-A graduate project for the JetBrains Academy.
+A project for the JetBrains Academy.
 
 ## About
 
